@@ -5,10 +5,10 @@
 // highly repetitive declarations
 // --------------------------------------------------
 
-@import '../../dist/vendor/bootstrap/scss/functions';
-@import '../../dist/vendor/bootstrap/scss/variables';
-@import '../../dist/vendor/bootstrap/scss/mixins';
-@import '../../dist/vendor/bootstrap/scss/utilities';
+@import '../../docs/vendor/bootstrap/scss/functions';
+@import '../../docs/vendor/bootstrap/scss/variables';
+@import '../../docs/vendor/bootstrap/scss/mixins';
+@import '../../docs/vendor/bootstrap/scss/utilities';
 
 $utilities: map-merge(
   $utilities,

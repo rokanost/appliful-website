@@ -19,13 +19,13 @@ const gulp = require('gulp'),
 
 const path = {
   src: 'src',
-  dist: 'dist',
+  dist: 'docs',
   src_pug: 'src/templates',
   src_scss: 'src/scss',
   src_js: 'src/js',
-  dist_vendor: 'dist/vendor',
-  dist_js: 'dist/js',
-  dist_css: 'dist/css'
+  dist_vendor: 'docs/vendor',
+  dist_js: 'docs/js',
+  dist_css: 'docs/css'
 }
 
 
